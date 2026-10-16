@@ -1,0 +1,15 @@
+# 2026-10-15T12:58:54Z load: 2.67 1.40 0.58
+[{"decode_tokens_per_s_per_seq":22.806439225655243,"gen_tokens":64,"max_seqs":1,"mean_batch_seqs":0.984375,"output_tokens_per_s":18.04388864147475,"prompt_tokens":64,"quantized":false,"requests":1,"seconds":3.546907281,"steps":64,"total_tokens_per_s":36.0877772829495,"ttft_ms_max":784.5183089999999,"ttft_ms_p50":784.5183089999999}]
+[{"decode_tokens_per_s_per_seq":44.84984952736662,"gen_tokens":64,"max_seqs":1,"mean_batch_seqs":0.984375,"output_tokens_per_s":35.30157663658876,"prompt_tokens":64,"quantized":true,"requests":1,"seconds":1.8129501879999999,"steps":64,"total_tokens_per_s":70.60315327317753,"ttft_ms_max":408.25350199999997,"ttft_ms_p50":408.25350199999997}]
+{"engine": "llama.cpp", "run": 0, "threads": 4, "prompt_tokens": 64, "gen_tokens": 64, "ttft_ms": 1137.8613499999801, "decode_tokens_per_s": 21.31359914000299}
+{"engine": "llama.cpp", "run": 0, "threads": 4, "prompt_tokens": 64, "gen_tokens": 64, "ttft_ms": 558.4318059999873, "decode_tokens_per_s": 22.94270811678527}
+# 2026-10-15T13:00:36Z load: 6.40 3.25 1.34
+[{"decode_tokens_per_s_per_seq":23.935245923052765,"gen_tokens":64,"max_seqs":1,"mean_batch_seqs":0.984375,"output_tokens_per_s":21.767792828473787,"prompt_tokens":64,"quantized":false,"requests":1,"seconds":2.940123535,"steps":64,"total_tokens_per_s":43.535585656947575,"ttft_ms_max":308.012301,"ttft_ms_p50":308.012301}]
+[{"decode_tokens_per_s_per_seq":41.33409966316711,"gen_tokens":64,"max_seqs":1,"mean_batch_seqs":0.984375,"output_tokens_per_s":32.91351227872029,"prompt_tokens":64,"quantized":true,"requests":1,"seconds":1.9444901369999998,"steps":64,"total_tokens_per_s":65.82702455744058,"ttft_ms_max":420.312818,"ttft_ms_p50":420.312818}]
+{"engine": "llama.cpp", "run": 0, "threads": 4, "prompt_tokens": 64, "gen_tokens": 64, "ttft_ms": 239.75544300003548, "decode_tokens_per_s": 19.72534447263741}
+{"engine": "llama.cpp", "run": 0, "threads": 4, "prompt_tokens": 64, "gen_tokens": 64, "ttft_ms": 248.49814800001013, "decode_tokens_per_s": 27.423962197055474}
+# 2026-10-15T13:00:59Z load: 8.32 3.93 1.61
+[{"decode_tokens_per_s_per_seq":15.132927218331869,"gen_tokens":64,"max_seqs":1,"mean_batch_seqs":0.984375,"output_tokens_per_s":13.187090157369001,"prompt_tokens":64,"quantized":false,"requests":1,"seconds":4.853231398,"steps":64,"total_tokens_per_s":26.374180314738002,"ttft_ms_max":690.110408,"ttft_ms_p50":690.110408}]
+[{"decode_tokens_per_s_per_seq":28.955360180289198,"gen_tokens":64,"max_seqs":1,"mean_batch_seqs":0.984375,"output_tokens_per_s":21.437244265294733,"prompt_tokens":64,"quantized":true,"requests":1,"seconds":2.985458355,"steps":64,"total_tokens_per_s":42.87448853058947,"ttft_ms_max":809.683187,"ttft_ms_p50":809.683187}]
+{"engine": "llama.cpp", "run": 0, "threads": 4, "prompt_tokens": 64, "gen_tokens": 64, "ttft_ms": 327.6096090000351, "decode_tokens_per_s": 24.04273706881592}
+{"engine": "llama.cpp", "run": 0, "threads": 4, "prompt_tokens": 64, "gen_tokens": 64, "ttft_ms": 343.52415500001143, "decode_tokens_per_s": 23.896442023812607}

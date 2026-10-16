@@ -1,0 +1,27 @@
+# 2026-10-15T08:44:58Z load: 11.85 16.66 17.35
+[
+  {
+    "cached_prompt_tokens": 0,
+    "gen_tokens": 8,
+    "prefill_tokens_computed": 2400,
+    "prefix_caching": false,
+    "prefix_tokens": 384,
+    "requests": 6,
+    "seconds": 59.245391113,
+    "suffix_tokens": 16,
+    "ttft_ms_first": 9860.518246,
+    "ttft_ms_mean_rest": 8952.7310828
+  },
+  {
+    "cached_prompt_tokens": 1920,
+    "gen_tokens": 8,
+    "prefill_tokens_computed": 480,
+    "prefix_caching": true,
+    "prefix_tokens": 384,
+    "requests": 6,
+    "seconds": 14.142971972,
+    "suffix_tokens": 16,
+    "ttft_ms_first": 9162.200722,
+    "ttft_ms_mean_rest": 358.3701332
+  }
+]

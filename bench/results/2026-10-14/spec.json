@@ -1,0 +1,31 @@
+[
+  {
+    "mode": "plain greedy",
+    "seconds": 3.019556764,
+    "tokens_per_s": 678.245239306917
+  },
+  {
+    "acceptance": 0.628666297731046,
+    "mode": "speculative k=2",
+    "seconds": 2.611626744,
+    "speedup": 1.1561976729397436,
+    "target_passes_per_token": 0.4501953125,
+    "tokens_per_s": 784.185567369117
+  },
+  {
+    "acceptance": 0.5190637976594942,
+    "mode": "speculative k=4",
+    "seconds": 2.866861825,
+    "speedup": 1.0532620503954702,
+    "target_passes_per_token": 0.33544921875,
+    "tokens_per_s": 714.3699714233699
+  },
+  {
+    "acceptance": 0.4370919881305638,
+    "mode": "speculative k=6",
+    "seconds": 3.205493609,
+    "speedup": 0.9419943173563194,
+    "target_passes_per_token": 0.28759765625,
+    "tokens_per_s": 638.9031612010929
+  }
+]

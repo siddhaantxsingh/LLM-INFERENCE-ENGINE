@@ -1,0 +1,4 @@
+# 2026-10-15T08:46:14Z load: 12.16 15.70 16.96
+{"loss":2.937494883848638,"perplexity":18.868519224817607,"quantized":false,"seconds":268.814835453,"tokens":8192,"weight_bytes":651165696}
+{"loss":2.9400649997571504,"perplexity":18.917075877631923,"quantized":true,"seconds":263.097354192,"tokens":8192,"weight_bytes":248544768}
+{"loss":2.939959947714695,"perplexity":18.91508870455382,"quantized":false,"seconds":257.424413738,"tokens":8192,"weight_bytes":651165696}

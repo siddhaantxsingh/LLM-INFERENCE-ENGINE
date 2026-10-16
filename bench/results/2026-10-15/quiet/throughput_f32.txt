@@ -1,0 +1,33 @@
+# 2026-10-15T13:01:23Z load: 9.73 4.61 1.90
+[
+  {
+    "decode_tokens_per_s_per_seq": 14.401746689402863,
+    "gen_tokens": 32,
+    "max_seqs": 1,
+    "mean_batch_seqs": 0.96875,
+    "output_tokens_per_s": 11.03260291673851,
+    "prompt_tokens": 64,
+    "quantized": false,
+    "requests": 8,
+    "seconds": 23.203953041,
+    "steps": 256,
+    "total_tokens_per_s": 33.09780875021553,
+    "ttft_ms_max": 20825.838088,
+    "ttft_ms_p50": 13197.25708
+  },
+  {
+    "decode_tokens_per_s_per_seq": 9.17457034637605,
+    "gen_tokens": 32,
+    "max_seqs": 8,
+    "mean_batch_seqs": 7.294117647058823,
+    "output_tokens_per_s": 34.31109655353235,
+    "prompt_tokens": 64,
+    "quantized": false,
+    "requests": 8,
+    "seconds": 7.461143062,
+    "steps": 34,
+    "total_tokens_per_s": 102.93328966059705,
+    "ttft_ms_max": 4774.610275,
+    "ttft_ms_p50": 4672.4029199999995
+  }
+]
